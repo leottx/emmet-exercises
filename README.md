@@ -55,3 +55,13 @@ Cada li deve possuir a classe .menu__item[1-5]. Dentro de cada item, inclua um l
   <a href="#">Link 1</a>
   <img id="pic" src="./img/photo.png" alt="description">
 </div>
+```
+9) Qual a exepressão para criar uma tag <link> com atributo src contendo o valor "favicon"?
+
+10) Escreva a expressão que reproduza a estrutura HTML abaixo:
+```html
+<div class="box"></div>
+<div>
+    <p><strong>Hello</strong> <em>world</em></p>
+    <blockquote></blockquote>
+</div>
