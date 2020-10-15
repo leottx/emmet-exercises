@@ -1,7 +1,6 @@
 # Emmet exercises  
 Repositório para guardar atividades sobre a sintaxe do plugin emmet. Não encontrei muito material para praticar, então espero colaborar com o aprendizado de outras pessoas através desse compilado de exercícios.
 
-
 1) Qual a sintaxe emmet para criar elementos filhos? Dê um exemplo.
 
 2) Qual a sintaxe emmet para criar elementos primos, ou seja, equivalentes em grau na hierarquia? Dê um exemplo.
@@ -37,11 +36,11 @@ Repositório para guardar atividades sobre a sintaxe do plugin emmet. Não encon
 </html>
 ```
 7) Explique usando palavras e não código qual seria o resultado da expressão a seguir:
-```
+```html
 table>tr*3>td*5
 ```
 8) Escreva a estrutura HTML gerada pela expressão abaixo:
-```
+```html
 p>div{inner}*2
 ```
 9) Escreva a expressão que corresponda a estrutura HTML abaixo:
@@ -65,7 +64,7 @@ Cada li deve possuir a classe .menu__item[1-5]. Dentro de cada item, inclua um l
   <img id="pic" src="./img/photo.png" alt="description">
 </div>
 ```
-13) Qual a exepressão para criar uma tag <link> com atributo src contendo o valor "favicon"?
+13) Qual a expressão para criar uma tag <link> com atributo src contendo o valor "favicon"?
 
 14) Escreva a expressão que reproduza a estrutura HTML abaixo:
 ```html
@@ -74,4 +73,17 @@ Cada li deve possuir a classe .menu__item[1-5]. Dentro de cada item, inclua um l
     <p><strong>Hello</strong> <em>world</em></p>
     <blockquote></blockquote>
 </div>
+```
+15) Escreva a expressão que reproduza o seguinte HTML:
+```html
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+```
+16) Escreva a estrutura HTML que será gerada a partir expressão abaixo:
+```html
+ul>li.item$@-*5
+```
+
+17) Escreva a expressão que reproduza o seguinte HTML:
+```html
+<input type="password" name="" id="" />
 ```
