@@ -82,8 +82,25 @@ Cada li deve possuir a classe .menu__item[1-5]. Dentro de cada item, inclua um l
 ```html
 ul>li.item$@-*5
 ```
-
 17) Escreva a expressão que reproduza o seguinte HTML:
 ```html
 <input type="password" name="" id="" />
+```
+18) Determine a expressão emmet que corresponda o HTML a seguir:
+```html
+<h1 class="title1">headline 1</h1>
+<h2 class="title2">headline 2</h2>
+<h3 class="title3">headline 3</h3>
+<h4 class="title4">headline 4</h4>
+<h5 class="title5">headline 5</h5>
+<h6 class="title6">headline 6</h6>
+```
+19) Qual a expressão emmet *implícita* para a seguinte estrutura:
+```html
+<ol>
+  <li class="item"></li>
+  <li class="item"></li>
+  <li class="item"></li>
+  <li class="item"></li>
+</ol>
 ```
