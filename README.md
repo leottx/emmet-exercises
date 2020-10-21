@@ -104,3 +104,29 @@ ul>li.item$@-*5
   <li class="item"></li>
 </ol>
 ```
+20) Escreva a expressão emmet que corresponda ao HTML abaixo:
+```html
+<div id="page">
+    <div class="logo"></div>
+    <ul id="navigation">
+        <li><a href="">Item 1</a></li>
+        <li><a href="">Item 2</a></li>
+        <li><a href="">Item 3</a></li>
+        <li><a href="">Item 4</a></li>
+        <li><a href="">Item 5</a></li>
+    </ul>
+</div>
+```
+21) Defina a expressão emmet para gerar a estrutura HTML a seguir:
+<div class="container hero">
+	<h1 class="main-title" data-weight="600">Title</h1>
+</div>
+
+22) Escreva a expressão shorthand da sintaxe emmet para o HTML abaixo:
+<button type="reset"></button>
+
+23) Qual será o HTML gerado pela seguinte expressão:
+div+div>p>span+em^^bq
+
+24) Escreva a estrutura HTML produzida pela expressão abaixo:
+(div>dl>(dt+dd)*3)+footer>p
