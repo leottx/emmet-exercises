@@ -12,14 +12,14 @@ Repositório para guardar atividades sobre a sintaxe do plugin emmet. Não encon
 05) Escreva a expressão que corresponda a estrutura HTML abaixo:
 ```html
 <div>
-    <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-    </ul>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
 </div>
 ```
 06) Escreva a expressão que corresponda a estrutura HTML abaixo:
