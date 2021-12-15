@@ -2,7 +2,7 @@
 
 Resposta:
 
-O aninhamento de elemento é feito pelo operador >
+O aninhamento de elementos é feito pelo operador >
 
 ```text
 div>p
@@ -38,7 +38,7 @@ Resultado:
 
 Resposta:
 
-O operador ^ eleva o elemento a direita um grau na hierarquia atual.
+O operador ^ eleva o elemento a direita em um grau na hierarquia atual.
 
 ```text
 div>div>a>span^a
