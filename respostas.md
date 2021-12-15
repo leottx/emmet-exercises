@@ -29,9 +29,8 @@ a+span
 Resultado:
 
 ```html
-<a href="">
-  <span></span>
-</a>
+<a href=""></a>
+<span></span>
 ```
 
 **3. Qual a função da sintaxe ^? Dê um exemplo utilizando-a.**
